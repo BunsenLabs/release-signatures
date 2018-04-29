@@ -1,0 +1,3 @@
+2fc54bf44a2b3e0fbcd1098ee0d59d8ca2cfd7e1cc8c485bcf9ad5ad9b0a1c7d  bl-Helium_amd64+build2.iso
+579579c3f94424dae4ba3abd2effdd472f97116e7a2be43ec120f8aabc4d733d  bl-Helium_i386+build2.iso
+ad4052ad5f748e5bc14a3169cdad32d96f7f4eab5fdd2a2978fce3f9cdecf41c  bl-Helium_i386_cdsized+build2.iso
