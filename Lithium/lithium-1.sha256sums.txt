@@ -1,0 +1,2 @@
+952b05f38825d97490d93b02ea160f7d0e036bbd834540c7a03ba3cf90af96ab  lithium-1-amd64.hybrid.iso
+419ddf940b6a4b501f32eb7e4b9e161b23d8984478fc6a5d9c9c6cc05f3ab059  lithium-1-cd-i386.hybrid.iso
